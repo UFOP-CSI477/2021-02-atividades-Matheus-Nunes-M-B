@@ -1,13 +1,15 @@
-# **CSI606-2021-02 - Estrutura básica do repositório**
+# **CSI606-2022-04 - Estrutura básica do repositório**
 
-## Atualize os seus dados
+## Atualize os seus dados:
 
-- Nome:
-- Matrícula:
-- Curso:
-- Semestre/Ano correntes:
-- Link para o seu GitHub:
+- Nome:Matheus Nunes Martins de Barros
+- Matrícula:17.1.8328
+- Curso:SI
+- Semestre/Ano correntes:8°
+- Link para o seu GitHub:https://github.com/Matheus-Nunes-M-B
 
-## [Projeto final:](./Projeto/README.md)
+## [Projeto final:](./Projeto/README.md) 
 
-Apresente uma breve descrição do seu projeto.
+Tema: Simulação de RPG
+
+Proposta: Os usuários irão criar uma conta, um dos usuários será o mestre da sessão, os usuários então irão preencher uma ficha e dai poderão realizar ações, as quais serão simulações de dados através dos atributos colocados nas fichas de cada um.
