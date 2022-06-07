@@ -1,0 +1,15 @@
+body{
+    background-color: #bdccc7;
+}
+img {
+  border-radius: 8px;
+}
+#perfil {
+  border-radius: 50%;
+}
+.p1 {
+  font-family: "Times New Roman", Times, serif;
+}
+a {
+  color: #5e6663;
+}

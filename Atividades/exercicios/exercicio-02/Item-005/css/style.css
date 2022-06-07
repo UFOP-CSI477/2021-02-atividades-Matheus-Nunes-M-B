@@ -1,0 +1,24 @@
+body{
+    background-color: #bdccc7;
+}
+img {
+  border-radius: 8px;
+}
+#perfil {
+  border-radius: 50%;
+}
+.p1 {
+  font-family: "Times New Roman", Times, serif;
+}
+a {
+  color: #5e6663;
+}
+th, td {
+  padding: 15px;
+}
+input[type=text] {
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
