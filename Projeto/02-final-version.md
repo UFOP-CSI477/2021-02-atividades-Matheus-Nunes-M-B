@@ -3,31 +3,29 @@
 
 --------------
 
-<!-- Descrever um resumo sobre o trabalho. -->
+<!-- Este documento tem como objetivo apresentar o projeto desenvolvido, considerando o que foi definido na proposta e o produto final. -->
 
 ### Resumo
-Este documento é uma apresentação da proposta do trabalho final, desenvolvido apra a disciplina CSI606 - Sistemas Web I. Foi desenvolvido uma plataforma para Fichas de RPG. A aplicação foi desenvolvida utilizando Laravel e MySQL.
+A aplicação foi desenvolvida utilizando as frameworks nest para o backend e nuxt para o frontend, para o banco de dados foi utilizado o PostgreSQL a aplicação permite a criação de sessões de RPGs e criação de fichas de RPGs e utilizar a rolagem de dados utilizado em RPGs.
 
-	
-<!-- Apresentar o tema. -->
-### 1. Tema
-Este possui funcionalidades:
-  
-   O trabalho em questão tem como proposta realizar o cadastro do mestre da sessão de RPG assim como os dos participantes, caso os mesmos desejem, pois o mestre pode gerar um link que permite convidados para a sessão, após terem criado as fichas os participantes podem rolar dados utilizando a plataforma para realizar suas sessões de RPG.
-<!-- Descrever e limitar o escopo da aplicação. -->
-### 2. Escopo
+### 1. Funcionalidades implementadas
+* Criação e visualização de fichas de RPG;
+* CRUD das sessões de RPG;
+* Implentado a rolagem de dados para as sessões;
+* Cadastro e login para usuários;
 
-  Este possui funcionalidades:
-  
-   * Criar, editar, apagar e visualizar dados dos participantes;
-   * Criar, editar, apagar e visualizar dados dos mestres;
-   * Criar, editar, apagar e visualizar dados das fichas;
-   * Visualizar histórico de sessões dos participantes;
+### 2. Funcionalidades previstas e não implementadas
+N/A
 
-<!-- Apresentar restrições de funcionalidades e de escopo. -->
-### 3. Restrições
+### 3. Outras funcionalidades implementadas
+N/A
 
-  * Não há mascaras para os inputs;
-  * Não há tratamento de dados em alguns inputs caso estes sejam inseridos no formato errado ou de forma errada
+### 4. Principais desafios e dificuldades
+Tive uma grande dificuldade na implementação do login;
+Tive uma dificuldade tambem com a documentação utilizada no nuxt para o frontend;
 
-  
+### 5. Instruções para instalação e execução
+É necessário a instalação do node.js(lts), do PostgreSQL, do yarn, os frameworks nest e nuxt e as dependências. 
+
+### 6. Referências
+N/A

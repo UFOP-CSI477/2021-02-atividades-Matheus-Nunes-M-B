@@ -1,0 +1,39 @@
+form {
+  flex: 1 1;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 200px;
+  flex: 1 1;
+}
+
+.form-control-actions {
+  padding: 5px;
+  margin-top: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.form-control {
+  margin-bottom: 5px;
+  flex: 1 1;
+  min-width: 50%;
+}
+
+.form-control input {
+  width: 100%;
+}
+
+.btn-primary {
+  margin-bottom: 10px;
+}
+
+input {
+  padding: 0.5em;
+  font-size: 1em;
+}

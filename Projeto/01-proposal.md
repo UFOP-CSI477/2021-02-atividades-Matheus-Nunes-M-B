@@ -1,34 +1,33 @@
-# **CSI606-2021-01 - Remoto - Proposta de Trabalho Final**
-## *Aluna(o): Princesa Leia (Luke Skywalker)*
+# **CSI606-2022-04 - Remoto - Trabalho Final - Resultados**
+## *Aluna(o): Matheus Nunes Martins de Barros*
 
 --------------
 
 <!-- Descrever um resumo sobre o trabalho. -->
 
 ### Resumo
+Este documento é uma apresentação da proposta do trabalho final, desenvolvido apra a disciplina CSI606 - Sistemas Web I. Foi desenvolvido uma plataforma para Fichas de RPG. A aplicação foi desenvolvida utilizando Nest Nuxt.
 
-  (Apresentar um breve resumo sobre o seu trabalho, indicando o contexto e as principais funcionalidades.)
-
+	
 <!-- Apresentar o tema. -->
 ### 1. Tema
-
-  O trabalho final tem como tema o desenvolvimento de ...
-
+Este possui funcionalidades:
+  
+   O trabalho em questão tem como proposta realizar o cadastro do mestre da sessão de RPG assim como os dos participantes, após terem criado as fichas os participantes podem rolar dados dentro da aplicação utilizando a plataforma para realizar suas sessões de RPG.
 <!-- Descrever e limitar o escopo da aplicação. -->
 ### 2. Escopo
 
-  Este projeto terá as seguintes funcionalidades...
+  Este possui funcionalidades:
+  
+   * Criar, editar, apagar e visualizar dados das sessões;
+   * Criar e visualizar dados das fichas;
+   * Visualizar as sessões dos participantes;
+   * Implementar rolagens de dados dentro das sessões.
 
 <!-- Apresentar restrições de funcionalidades e de escopo. -->
 ### 3. Restrições
 
-  Neste trabalho não serão considerados ...
+  * Não há mascaras para os inputs;
+  * Não há tratamento de dados em alguns inputs caso estes sejam inseridos no formato errado ou de forma errada
 
-<!-- Construir alguns protótipos para a aplicação, disponibilizá-los no Github e descrever o que foi considerado. //-->
-### 4. Protótipo
-
-  Protótipos para as páginas (descrever quais páginas) foram elaborados, e podem ser encontrados em...
-
-### 5. Referências
-
-  Referências podem ser incluídas, caso necessário. Utilize o padrão ABNT.
+  
