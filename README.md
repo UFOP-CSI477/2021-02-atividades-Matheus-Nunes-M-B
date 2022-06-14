@@ -12,4 +12,4 @@
 
 Tema: Simulação de RPG
 
-Proposta: Os usuários irão criar uma conta, um dos usuários será o mestre da sessão, os usuários então irão preencher uma ficha e dai poderão realizar ações, as quais serão simulações de dados através dos atributos colocados nas fichas de cada um.
+O trabalho em questão tem como proposta realizar o cadastro do mestre da sessão de RPG assim como os dos participantes, após terem criado as fichas os participantes podem rolar dados dentro da aplicação utilizando a plataforma para realizar suas sessões de RPG.
